@@ -4,13 +4,9 @@ verify_ssl = true
 name = "aliyun"
 
 [packages]
-numpy = "*"
-pandas = "*"
-matplotlib = "*"
 notebook = "*"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 black = "*"
-
-[requires]
-python_version = "3.10"
